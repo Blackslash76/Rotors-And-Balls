@@ -1,0 +1,3228 @@
+fileFormatVersion: 2
+guid: 56d71f3678866ea49919cfbe6386ad69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PallineAnim_0
+  - first:
+      213: 21300002
+    second: PallineAnim_1
+  - first:
+      213: 21300004
+    second: PallineAnim_2
+  - first:
+      213: 21300006
+    second: PallineAnim_3
+  - first:
+      213: 21300008
+    second: PallineAnim_4
+  - first:
+      213: 21300010
+    second: PallineAnim_5
+  - first:
+      213: 21300012
+    second: PallineAnim_6
+  - first:
+      213: 21300014
+    second: PallineAnim_7
+  - first:
+      213: 21300016
+    second: PallineAnim_8
+  - first:
+      213: 21300018
+    second: PallineAnim_9
+  - first:
+      213: 21300020
+    second: PallineAnim_10
+  - first:
+      213: 21300022
+    second: PallineAnim_11
+  - first:
+      213: 21300024
+    second: PallineAnim_12
+  - first:
+      213: 21300026
+    second: PallineAnim_13
+  - first:
+      213: 21300028
+    second: PallineAnim_14
+  - first:
+      213: 21300030
+    second: PallineAnim_15
+  - first:
+      213: 21300032
+    second: PallineAnim_16
+  - first:
+      213: 21300034
+    second: PallineAnim_17
+  - first:
+      213: 21300036
+    second: PallineAnim_18
+  - first:
+      213: 21300038
+    second: PallineAnim_19
+  - first:
+      213: 21300040
+    second: PallineAnim_20
+  - first:
+      213: 21300042
+    second: PallineAnim_21
+  - first:
+      213: 21300044
+    second: PallineAnim_22
+  - first:
+      213: 21300046
+    second: PallineAnim_23
+  - first:
+      213: 21300048
+    second: PallineAnim_24
+  - first:
+      213: 21300050
+    second: PallineAnim_25
+  - first:
+      213: 21300052
+    second: PallineAnim_26
+  - first:
+      213: 21300054
+    second: PallineAnim_27
+  - first:
+      213: 21300056
+    second: PallineAnim_28
+  - first:
+      213: 21300058
+    second: PallineAnim_29
+  - first:
+      213: 21300060
+    second: PallineAnim_30
+  - first:
+      213: 21300062
+    second: PallineAnim_31
+  - first:
+      213: 21300064
+    second: PallineAnim_32
+  - first:
+      213: 21300066
+    second: PallineAnim_33
+  - first:
+      213: 21300068
+    second: PallineAnim_34
+  - first:
+      213: 21300070
+    second: PallineAnim_35
+  - first:
+      213: 21300072
+    second: PallineAnim_36
+  - first:
+      213: 21300074
+    second: PallineAnim_37
+  - first:
+      213: 21300076
+    second: PallineAnim_38
+  - first:
+      213: 21300078
+    second: PallineAnim_39
+  - first:
+      213: 21300080
+    second: PallineAnim_40
+  - first:
+      213: 21300082
+    second: PallineAnim_41
+  - first:
+      213: 21300084
+    second: PallineAnim_42
+  - first:
+      213: 21300086
+    second: PallineAnim_43
+  - first:
+      213: 21300088
+    second: PallineAnim_44
+  - first:
+      213: 21300090
+    second: PallineAnim_45
+  - first:
+      213: 21300092
+    second: PallineAnim_46
+  - first:
+      213: 21300094
+    second: PallineAnim_47
+  - first:
+      213: 21300096
+    second: PallineAnim_48
+  - first:
+      213: 21300098
+    second: PallineAnim_49
+  - first:
+      213: 21300100
+    second: PallineAnim_50
+  - first:
+      213: 21300102
+    second: PallineAnim_51
+  - first:
+      213: 21300104
+    second: PallineAnim_52
+  - first:
+      213: 21300106
+    second: PallineAnim_53
+  - first:
+      213: 21300108
+    second: PallineAnim_54
+  - first:
+      213: 21300110
+    second: PallineAnim_55
+  - first:
+      213: 21300112
+    second: PallineAnim_56
+  - first:
+      213: 21300114
+    second: PallineAnim_57
+  - first:
+      213: 21300116
+    second: PallineAnim_58
+  - first:
+      213: 21300118
+    second: PallineAnim_59
+  - first:
+      213: 21300120
+    second: PallineAnim_60
+  - first:
+      213: 21300122
+    second: PallineAnim_61
+  - first:
+      213: 21300124
+    second: PallineAnim_62
+  - first:
+      213: 21300126
+    second: PallineAnim_63
+  - first:
+      213: 21300128
+    second: PallineAnim_64
+  - first:
+      213: 21300130
+    second: PallineAnim_65
+  - first:
+      213: 21300132
+    second: PallineAnim_66
+  - first:
+      213: 21300134
+    second: PallineAnim_67
+  - first:
+      213: 21300136
+    second: PallineAnim_68
+  - first:
+      213: 21300138
+    second: PallineAnim_69
+  - first:
+      213: 21300140
+    second: PallineAnim_70
+  - first:
+      213: 21300142
+    second: PallineAnim_71
+  - first:
+      213: 21300144
+    second: PallineAnim_72
+  - first:
+      213: 21300146
+    second: PallineAnim_73
+  - first:
+      213: 21300148
+    second: PallineAnim_74
+  - first:
+      213: 21300150
+    second: PallineAnim_75
+  - first:
+      213: 21300152
+    second: PallineAnim_76
+  - first:
+      213: 21300154
+    second: PallineAnim_77
+  - first:
+      213: 21300156
+    second: PallineAnim_78
+  - first:
+      213: 21300158
+    second: PallineAnim_79
+  - first:
+      213: 21300160
+    second: PallineAnim_80
+  - first:
+      213: 21300162
+    second: PallineAnim_81
+  - first:
+      213: 21300164
+    second: PallineAnim_82
+  - first:
+      213: 21300166
+    second: PallineAnim_83
+  - first:
+      213: 21300168
+    second: PallineAnim_84
+  - first:
+      213: 21300170
+    second: PallineAnim_85
+  - first:
+      213: 21300172
+    second: PallineAnim_86
+  - first:
+      213: 21300174
+    second: PallineAnim_87
+  - first:
+      213: 21300176
+    second: PallineAnim_88
+  - first:
+      213: 21300178
+    second: PallineAnim_89
+  - first:
+      213: 21300180
+    second: PallineAnim_90
+  - first:
+      213: 21300182
+    second: PallineAnim_91
+  - first:
+      213: 21300184
+    second: PallineAnim_92
+  - first:
+      213: 21300186
+    second: PallineAnim_93
+  - first:
+      213: 21300188
+    second: PallineAnim_94
+  - first:
+      213: 21300190
+    second: PallineAnim_95
+  - first:
+      213: 21300192
+    second: PallineAnim_96
+  - first:
+      213: 21300194
+    second: PallineAnim_97
+  - first:
+      213: 21300196
+    second: PallineAnim_98
+  - first:
+      213: 21300198
+    second: PallineAnim_99
+  - first:
+      213: 21300200
+    second: PallineAnim_100
+  - first:
+      213: 21300202
+    second: PallineAnim_101
+  - first:
+      213: 21300204
+    second: PallineAnim_102
+  - first:
+      213: 21300206
+    second: PallineAnim_103
+  - first:
+      213: 21300208
+    second: PallineAnim_104
+  - first:
+      213: 21300210
+    second: PallineAnim_105
+  - first:
+      213: 21300212
+    second: PallineAnim_106
+  - first:
+      213: 21300214
+    second: PallineAnim_107
+  - first:
+      213: 21300216
+    second: PallineAnim_108
+  - first:
+      213: 21300218
+    second: PallineAnim_109
+  - first:
+      213: 21300220
+    second: PallineAnim_110
+  - first:
+      213: 21300222
+    second: PallineAnim_111
+  - first:
+      213: 21300224
+    second: PallineAnim_112
+  - first:
+      213: 21300226
+    second: PallineAnim_113
+  - first:
+      213: 21300228
+    second: PallineAnim_114
+  - first:
+      213: 21300230
+    second: PallineAnim_115
+  - first:
+      213: 21300232
+    second: PallineAnim_116
+  - first:
+      213: 21300234
+    second: PallineAnim_117
+  - first:
+      213: 21300236
+    second: PallineAnim_118
+  - first:
+      213: 21300238
+    second: PallineAnim_119
+  - first:
+      213: 21300240
+    second: PallineAnim_120
+  - first:
+      213: 21300242
+    second: PallineAnim_121
+  - first:
+      213: 21300244
+    second: PallineAnim_122
+  - first:
+      213: 21300246
+    second: PallineAnim_123
+  - first:
+      213: 21300248
+    second: PallineAnim_124
+  - first:
+      213: 21300250
+    second: PallineAnim_125
+  - first:
+      213: 21300252
+    second: PallineAnim_126
+  - first:
+      213: 21300254
+    second: PallineAnim_127
+  - first:
+      213: 21300256
+    second: PallineAnim_128
+  - first:
+      213: 21300258
+    second: PallineAnim_129
+  - first:
+      213: 21300260
+    second: PallineAnim_130
+  - first:
+      213: 21300262
+    second: PallineAnim_131
+  - first:
+      213: 21300264
+    second: PallineAnim_132
+  - first:
+      213: 21300266
+    second: PallineAnim_133
+  - first:
+      213: 21300268
+    second: PallineAnim_134
+  - first:
+      213: 21300270
+    second: PallineAnim_135
+  - first:
+      213: 21300272
+    second: PallineAnim_136
+  - first:
+      213: 21300274
+    second: PallineAnim_137
+  - first:
+      213: 21300276
+    second: PallineAnim_138
+  - first:
+      213: 21300278
+    second: PallineAnim_139
+  - first:
+      213: 21300280
+    second: PallineAnim_140
+  - first:
+      213: 21300282
+    second: PallineAnim_141
+  - first:
+      213: 21300284
+    second: PallineAnim_142
+  - first:
+      213: 21300286
+    second: PallineAnim_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PallineAnim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c299e02be60c849bf859a7fdef5231
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42548b7fa588c384a833d213b1560811
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b025252cd78018041aef39837d7cea4c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce93f5769bb7e141885097245560755
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661e950f7934a4c4b8c456a5265dab3f
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196d0e32cf41caf43b45f24c519a2c3d
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0caa48b0d44cf4886eae4494d7b8ff
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb44961498c28647a92162f58a6fbbd
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a65cef009d0ee488e0b4e049c49d63
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed91eb6a9f1aea246b172c190d452a00
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335ec81e3dad3bf45b9cf8e4c64fe67b
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90324841a617bb54092a58d9105a9297
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d9ef3a17f70274ebd57a6d9847c083
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ebcc952dcca8b4693f8104c685e7e8
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e10f31ce2dc23c49b4e22806a4628a9
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded7724539419c049bb5c20d44dc056f
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e0fe85c9c3e0440b478818041a8c9b
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed7f18a365c1824b85475e0e5236f78
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b06e588ea4eb0547bb6d499c14e2d5f
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82782c530cf8dac488ddd45bf5bc89c0
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429eb5416b5c5454f957984e014e2e9e
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3884c8df1c5434a488b150fc86ea9759
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fd9037de85fd74eaa18710972b1bfc
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21b31fd78dda0a48b1cdff6a424672b
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353f3a84bc9c7e845a0b4cacff482305
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765517e27ac12794e9a2ac74f939fa1c
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65303455e859c9c4fb7013f027cbb86f
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6679a9641817be41b7f37339ba86a3f
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223df810a6d4eb343b9cf34170e94fb8
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29d014ab0fc3b442aab8aa25431b605
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe8dcfe13814924eb819f56c4b14030
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da14e98999c3fd64383670fc29eb9a55
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3958fa702bdc64bb9b546e2e84c496
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf489c5aa97f2074a8c1177db05bf1eb
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c5b83c06527fc4e91545288394360e
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263effa46e6959944938a86d61c4e412
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b179f05e41b934fb77c4b2d49c722b
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10ec50ccd7f89149a2aa711ec9304c4
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3234bc7c3572643bc44323077f8586
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21693e6c3bdaaf448bf64dc821affabe
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042d28acebaca5144980c2cd6695f595
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d8e54725972e0499d50348e4c1a126
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b8146ceeeed5147812ea4958fb007a
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba6dc7930f845e43aaf49fa05264588
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4555de9a33f47d248b7b07248b0ed519
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f420c8f82c91624abf8701d2baa9337
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220483cf839d18947b4a9d360fa07bb1
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fa1c7403dce70428efa363eb26364a
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e921bde042e6b0b428b931b928b35578
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db51a3c2b6fe4084891295027f461cf8
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b5db682e132d949b8c57cfab2146b6
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f40fec52290d064b9913769e44496e4
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821c89d530726c74491f16301fd2f6dd
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca9ccfc57930a94b8b4ab579f6c9756
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f570078c87c909b49a23f98f57c94e3b
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ebad356df34724b8cb78e6f7f4ded7
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096b21f4f590388469b041f9b41b23c8
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02891938a20e364983cd514a0480a81
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45ff231ae4b897418b7dfa2809c9548
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d253aab429cdb74697a59b4c85832c9
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28ab61b15e1f4b48a5815da02700b4e
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc566027ace3834b9e5eb3ff2bb07ac
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f4d28210c8c4c4ca615de0451ba194
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d38ce5bcb6d98740bf22885d954535d
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091aefcd1ab037f48a404a5a4747dd7f
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beaee2f62df14c47aec1b05b85d1ba8
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf5f55e8cef5904fbc7be0f5f022b0c
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272f3d8009dff4d4eae65a28a41056d6
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f606d8ac7f62447bb8a78f39b4d9e6
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7836e2597f5a7c49a034fa635df9dbc
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba884d88dfcbe5f4ebded66ec65f0dfb
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_71
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212eaa9c389e34d4fb8e0e2e01ef19b6
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae7ae7540e27c342a107a68e2d7224b
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b57cf03883528e41b499e0f0fb92178
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9368d8259ca32cc47a268cd4645f72f5
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf9e14f9ba98224d85907a9b1a26c88
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7d4c9fa09308741a6b902a6bc7f790
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae437224a35c474d807d9c74817be62
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939d6553f1f20c84b9f26339ac7e3901
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb45bc7b9ab3db4689021692c3f1b23
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd6ea2dae314cc47b7d3fc98a1f5219
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8137bc4faed861045be8ffb4ffe9e59b
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69b4278496d19c4282c5b66a37575c9
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0d69fe04c98df40a684ca28a06d621
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31e30e139a92cb4081ed69d2667bc35
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d4b853fa268ff47869416ebfea9426
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7e5c1e163c9134e83beff8af25be3f
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1822ea3dad39845b0589caaf7317b9
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08fb6d20972c82448267d2510c61b32
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5e1f05a953e20419620064240e7657
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf48cc5204036e4782d1b248c5ba05e
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadb869c82bd9024496753178d11a754
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5075e56d8f6c7c4abfc50f9f0b3a57f
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_93
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600ffbdf74c60124ebd2fdcf5c78e856
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f87426ae7fc4c489a2a1694a813976
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_95
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb9722617edbe04fb21da33d75cf564
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b0f8c5a113b16418efcd2db92bfc10
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fee2a6900c77b4fa3844295f8b1eac
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565d171716c6e0b4db4376230bbda83d
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cdd99340a94484e8b88ed2c9ad5789
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a469a5811866954092ea2dd55cf59f0
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d138f6152eb227a42b168f8550a03c98
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959e06a703122d64a8c4281e9403e40a
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9a2a17aa9e608479e4a6ca400f518f
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42890c9e9dd9bb4eb9c01ed556b2247
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8431da3f7ab8887499bc94a587eaf395
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6feae6d2c625004c96e5a4b8e56f9db
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ddb8d9d12e8524691cc2a2bc4a800d
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b43cba94b4e7441ac0e6f521ca76e2
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ca404a48acfbd43b7045f6827b6688
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_110
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef23edabfc406f4f8c0abcc64983960
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_111
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6554bf9295398f48bc17fb3f81908bb
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9ff42fe4a666944b02b87437d955d9
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6a62923334856428d7cb5df9273d4a
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdc381e6b8bead4ab50250612fbe938
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126ee61a56e2509429c1d6561088bb64
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da9645db9d3073488d992c1e1dcdadd
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4347d94651df243b98ee9c934e95db
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c70e0348e39e140b22c55157f443c5
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1e1706bf5a7d9409a919cfeb83006b
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PallineAnim_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a2109e87f62a040a286a163cbcee17
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d5b0666a73537f646acfd3d74a1e6cdc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PallineAnim_111: 21300222
+      PallineAnim_45: 21300090
+      PallineAnim_73: 21300146
+      PallineAnim_113: 21300226
+      PallineAnim_36: 21300072
+      PallineAnim_93: 21300186
+      PallineAnim_62: 21300124
+      PallineAnim_52: 21300104
+      PallineAnim_94: 21300188
+      PallineAnim_61: 21300122
+      PallineAnim_65: 21300130
+      PallineAnim_95: 21300190
+      PallineAnim_53: 21300106
+      PallineAnim_12: 21300024
+      PallineAnim_64: 21300128
+      PallineAnim_109: 21300218
+      PallineAnim_14: 21300028
+      PallineAnim_81: 21300162
+      PallineAnim_91: 21300182
+      PallineAnim_84: 21300168
+      PallineAnim_5: 21300010
+      PallineAnim_43: 21300086
+      PallineAnim_23: 21300046
+      PallineAnim_92: 21300184
+      PallineAnim_119: 21300238
+      PallineAnim_103: 21300206
+      PallineAnim_98: 21300196
+      PallineAnim_4: 21300008
+      PallineAnim_63: 21300126
+      PallineAnim_47: 21300094
+      PallineAnim_96: 21300192
+      PallineAnim_106: 21300212
+      PallineAnim_32: 21300064
+      PallineAnim_25: 21300050
+      PallineAnim_30: 21300060
+      PallineAnim_108: 21300216
+      PallineAnim_105: 21300210
+      PallineAnim_48: 21300096
+      PallineAnim_7: 21300014
+      PallineAnim_16: 21300032
+      PallineAnim_85: 21300170
+      PallineAnim_59: 21300118
+      PallineAnim_29: 21300058
+      PallineAnim_27: 21300054
+      PallineAnim_28: 21300056
+      PallineAnim_8: 21300016
+      PallineAnim_10: 21300020
+      PallineAnim_39: 21300078
+      PallineAnim_49: 21300098
+      PallineAnim_21: 21300042
+      PallineAnim_22: 21300044
+      PallineAnim_37: 21300074
+      PallineAnim_55: 21300110
+      PallineAnim_70: 21300140
+      PallineAnim_87: 21300174
+      PallineAnim_68: 21300136
+      PallineAnim_13: 21300026
+      PallineAnim_77: 21300154
+      PallineAnim_118: 21300236
+      PallineAnim_2: 21300004
+      PallineAnim_107: 21300214
+      PallineAnim_66: 21300132
+      PallineAnim_112: 21300224
+      PallineAnim_42: 21300084
+      PallineAnim_72: 21300144
+      PallineAnim_114: 21300228
+      PallineAnim_18: 21300036
+      PallineAnim_58: 21300116
+      PallineAnim_0: 21300000
+      PallineAnim_17: 21300034
+      PallineAnim_46: 21300092
+      PallineAnim_101: 21300202
+      PallineAnim_86: 21300172
+      PallineAnim_20: 21300040
+      PallineAnim_67: 21300134
+      PallineAnim_33: 21300066
+      PallineAnim_104: 21300208
+      PallineAnim_9: 21300018
+      PallineAnim_38: 21300076
+      PallineAnim_41: 21300082
+      PallineAnim_24: 21300048
+      PallineAnim_97: 21300194
+      PallineAnim_110: 21300220
+      PallineAnim_71: 21300142
+      PallineAnim_117: 21300234
+      PallineAnim_31: 21300062
+      PallineAnim_15: 21300030
+      PallineAnim_19: 21300038
+      PallineAnim_69: 21300138
+      PallineAnim_11: 21300022
+      PallineAnim_99: 21300198
+      PallineAnim_60: 21300120
+      PallineAnim_120: 21300240
+      PallineAnim_116: 21300232
+      PallineAnim_74: 21300148
+      PallineAnim_90: 21300180
+      PallineAnim_3: 21300006
+      PallineAnim_83: 21300166
+      PallineAnim_115: 21300230
+      PallineAnim_82: 21300164
+      PallineAnim_56: 21300112
+      PallineAnim_1: 21300002
+      PallineAnim_78: 21300156
+      PallineAnim_40: 21300080
+      PallineAnim_79: 21300158
+      PallineAnim_34: 21300068
+      PallineAnim_6: 21300012
+      PallineAnim_44: 21300088
+      PallineAnim_76: 21300152
+      PallineAnim_75: 21300150
+      PallineAnim_26: 21300052
+      PallineAnim_88: 21300176
+      PallineAnim_51: 21300102
+      PallineAnim_89: 21300178
+      PallineAnim_50: 21300100
+      PallineAnim_57: 21300114
+      PallineAnim_54: 21300108
+      PallineAnim_102: 21300204
+      PallineAnim_100: 21300200
+      PallineAnim_80: 21300160
+      PallineAnim_35: 21300070
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

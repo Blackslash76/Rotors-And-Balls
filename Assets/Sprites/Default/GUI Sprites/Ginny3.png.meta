@@ -1,0 +1,1384 @@
+fileFormatVersion: 2
+guid: 2376a5a5b295742418ac64e3f04cf8f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ginny3_0
+  - first:
+      213: 21300002
+    second: Ginny3_1
+  - first:
+      213: 21300004
+    second: Ginny3_2
+  - first:
+      213: 21300006
+    second: Ginny3_3
+  - first:
+      213: 21300008
+    second: Ginny3_4
+  - first:
+      213: 21300010
+    second: Ginny3_5
+  - first:
+      213: 21300012
+    second: Ginny3_6
+  - first:
+      213: 21300014
+    second: Ginny3_7
+  - first:
+      213: 21300016
+    second: Ginny3_8
+  - first:
+      213: 21300018
+    second: Ginny3_9
+  - first:
+      213: 21300020
+    second: Ginny3_10
+  - first:
+      213: 21300022
+    second: Ginny3_11
+  - first:
+      213: 21300024
+    second: Ginny3_12
+  - first:
+      213: 21300026
+    second: Ginny3_13
+  - first:
+      213: 21300028
+    second: Ginny3_14
+  - first:
+      213: 21300030
+    second: Ginny3_15
+  - first:
+      213: 21300032
+    second: Ginny3_16
+  - first:
+      213: 21300034
+    second: Ginny3_17
+  - first:
+      213: 21300036
+    second: Ginny3_18
+  - first:
+      213: 21300038
+    second: Ginny3_19
+  - first:
+      213: 21300040
+    second: Ginny3_20
+  - first:
+      213: 21300042
+    second: Ginny3_21
+  - first:
+      213: 21300044
+    second: Ginny3_22
+  - first:
+      213: 21300046
+    second: Ginny3_23
+  - first:
+      213: 21300048
+    second: Ginny3_24
+  - first:
+      213: 21300050
+    second: Ginny3_25
+  - first:
+      213: 21300052
+    second: Ginny3_26
+  - first:
+      213: 21300054
+    second: Ginny3_27
+  - first:
+      213: 21300056
+    second: Ginny3_28
+  - first:
+      213: 21300058
+    second: Ginny3_29
+  - first:
+      213: 21300060
+    second: Ginny3_30
+  - first:
+      213: 21300062
+    second: Ginny3_31
+  - first:
+      213: 21300064
+    second: Ginny3_32
+  - first:
+      213: 21300066
+    second: Ginny3_33
+  - first:
+      213: 21300068
+    second: Ginny3_34
+  - first:
+      213: 21300070
+    second: Ginny3_35
+  - first:
+      213: 21300072
+    second: Ginny3_36
+  - first:
+      213: 21300074
+    second: Ginny3_37
+  - first:
+      213: 21300076
+    second: Ginny3_38
+  - first:
+      213: 21300078
+    second: Ginny3_39
+  - first:
+      213: 21300080
+    second: Ginny3_40
+  - first:
+      213: 21300082
+    second: Ginny3_41
+  - first:
+      213: 21300084
+    second: Ginny3_42
+  - first:
+      213: 21300086
+    second: Ginny3_43
+  - first:
+      213: 21300088
+    second: Ginny3_44
+  - first:
+      213: 21300090
+    second: Ginny3_45
+  - first:
+      213: 21300092
+    second: Ginny3_46
+  - first:
+      213: 21300094
+    second: Ginny3_47
+  - first:
+      213: 21300096
+    second: Ginny3_48
+  - first:
+      213: 21300098
+    second: Ginny3_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ginny3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd0ede5144ab30438449412e0b9783a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2304
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debb9b5d7b8f29d4c80404378483ede4
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2304
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055df326c13a0464ab196259ed738118
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_3
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2304
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1cc3f048dbdbe49877e449990c6377
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_4
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2304
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1dfc9cb4edcc7458ebfeec850831c6
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af1fc87f1609c74e9d5a452e0395536
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2048
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3eefd3175d49a43b676eb6f03c7d06
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2048
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130879a8eb975584183d0e9415992d6d
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_8
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2048
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e41bf8a98319d34597eeb7c95ec9f6f
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_9
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b11c1fe0ddd57e4fba68ecca0440320
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662886666f5cade43bfff4693acd40d5
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07e78ca10cea6c4cbd64b03a56bee2c
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137d8e348fbbf014fb7e2f31ddc7451a
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_13
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1792
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dcc526f410a9848b04252c03d3da99
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e810ce8a8725be42bf8574e339671d4
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3dd72cd4bdb63479a7f7ab064c335c
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da520012e6921d5468607abe5598d7ca
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0e41ce44c431c4d86ff7c95687433a
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1536
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6650ffd7d2b64ac44928f4f7e668dbea
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2053884c85f301a43b12b33eaee166e4
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3b3c44c9db9ed4780e1ed1276eb693
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6560dbb6494f3e43bc8a6d072ed2357
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb2434767f6bf74aa427f5fb5aacf8f
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_23
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1280
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9900f80f6d20d404fb465e5f3e6cbed6
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571ee0872451aae40a3ae8a1063ededc
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6575992d0313bdc428a538ed57016aec
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e79f2c101edd8749b1339241169944c
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1af2b56159b6de499359fdd8a369e01
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_28
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1024
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1387244c1f201b439afa30ce36253d3
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_29
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ff1e0eb415d61409488034c3bae6bc
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055267930bb932b4ab6f7db540e5bf7e
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f89ee5781245b49badd947a9beffec
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_32
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8ad15446b629e449dd73f23689bb9d
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_33
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd1db0cd084a0741990ec3e59bd04a7
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea30811d2b2008842aa6a34b3eb84e1a
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3400b07214e959245bd3b7b2e7d2a17d
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c3609beb1017e49a4c768c932e757f
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_37
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff03d3b5f5f54a41b2e32235ee0be4a
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_38
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfd45d203e5dd041a246196bcd0ac99
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_39
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d4353412982d741923da394b8a0145
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f76d7c639ad084594d7ee42af124c4
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328ea42adef6f3e4286c7a07b2bb36b2
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4806a39541dcdda4c92934fa4851392c
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_43
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48310e316973c741b3d6164f3f04c1d
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c3a4a906e817c4db226ca7c6400830
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47ea978c808d7b44b13d91e91ff7d00
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633e037828500f74b81ab4e45feea8bd
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_47
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60569db864f609b45b55250beb858a49
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_48
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1712745bfb7a9d34b9e4f3206cbf150a
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ginny3_49
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc2d43b6db8d004ea37811c532f9f7a
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3591772911d86bd44867a39e8ba506fe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ginny3_19: 21300038
+      Ginny3_49: 21300098
+      Ginny3_48: 21300096
+      Ginny3_5: 21300010
+      Ginny3_30: 21300060
+      Ginny3_9: 21300018
+      Ginny3_36: 21300072
+      Ginny3_40: 21300080
+      Ginny3_16: 21300032
+      Ginny3_21: 21300042
+      Ginny3_39: 21300078
+      Ginny3_11: 21300022
+      Ginny3_22: 21300044
+      Ginny3_43: 21300086
+      Ginny3_4: 21300008
+      Ginny3_27: 21300054
+      Ginny3_12: 21300024
+      Ginny3_45: 21300090
+      Ginny3_46: 21300092
+      Ginny3_20: 21300040
+      Ginny3_32: 21300064
+      Ginny3_38: 21300076
+      Ginny3_17: 21300034
+      Ginny3_1: 21300002
+      Ginny3_14: 21300028
+      Ginny3_3: 21300006
+      Ginny3_26: 21300052
+      Ginny3_31: 21300062
+      Ginny3_13: 21300026
+      Ginny3_28: 21300056
+      Ginny3_8: 21300016
+      Ginny3_18: 21300036
+      Ginny3_29: 21300058
+      Ginny3_47: 21300094
+      Ginny3_7: 21300014
+      Ginny3_24: 21300048
+      Ginny3_10: 21300020
+      Ginny3_34: 21300068
+      Ginny3_44: 21300088
+      Ginny3_37: 21300074
+      Ginny3_25: 21300050
+      Ginny3_2: 21300004
+      Ginny3_35: 21300070
+      Ginny3_23: 21300046
+      Ginny3_15: 21300030
+      Ginny3_0: 21300000
+      Ginny3_41: 21300082
+      Ginny3_6: 21300012
+      Ginny3_42: 21300084
+      Ginny3_33: 21300066
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

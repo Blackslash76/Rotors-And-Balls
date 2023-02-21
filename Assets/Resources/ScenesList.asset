@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65609cbe696af1e41be2f4784ba48d26, type: 3}
+  m_Name: ScenesList
+  m_EditorClassIdentifier: 
+  scenesPath:
+  - Assets/Scenes/Puzzle Mode/Magazzino Livelli/Level28 It Goes Around.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/level1 EASY.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/Level2 Demand.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/Level3 Two it's better than one.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/level4 Right Angle.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/Level5 Sit Down.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/Level6 Scambi Pazzi.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/Level7 Sound.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/Level8 You cannot pass!.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/Level9 Right to pass both sides.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/Level10 Flowers.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/Level11 Targhet.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/level12 Arrow.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/Level13 Window.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/Level14 The worm.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/Level15 salto nelle nuvole.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/Level16 The Tree.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/Level17 Unnamed.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/Level18 Bat.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/Level19 Red Green Blue Yellow.unity
+  - Assets/Scenes/Puzzle Mode/Prima Ondata/Level20 Turtle.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level21 muletto.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level22 Gun.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level23 Stealt.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level24 simple.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level25 Piramid.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level26 box.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level27 Teleport.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level28 Motor Car.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level29 Stereo.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level30 Spider.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level31  1,2,3.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level32 foto di una notte di mezza estate
+    piovosa senza un bar aperto e qualcuno che ti dia indicazioni.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/level33 Red Head.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level34 Home.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level36 Infinity.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level74 Cees Cake.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level37.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level38 The Castle.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level39 Call the Plumber.unity
+  - Assets/Scenes/Puzzle Mode/Seconda Ondata/Level40 Babel Tower.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level41.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level42.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level43.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level44.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level45 dollars.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level46 Candy Spiral.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level47 Twins.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level48 like rome street.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level49.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/level50.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level51.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level52 tangle.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level53 N.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level54 Jerry.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level55.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level56 Silver.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level57 Eagle.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level58one way.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level59 Good Luck.unity
+  - Assets/Scenes/Puzzle Mode/Terza Ondata/Level60.unity
+  - Assets/Scenes/Puzzle Mode/Magazzino Livelli/Level61.unity
+  - Assets/Scenes/Puzzle Mode/Magazzino Livelli/Level62 S.unity
+  - Assets/Scenes/Puzzle Mode/Magazzino Livelli/Level63.unity
+  - Assets/Scenes/Puzzle Mode/Magazzino Livelli/level64.unity
+  - Assets/Scenes/Puzzle Mode/Magazzino Livelli/Level65.unity
+  - Assets/Scenes/Puzzle Mode/Magazzino Livelli/Level66 tangle.unity
+  - Assets/Scenes/Puzzle Mode/Magazzino Livelli/Level67.unity
+  - Assets/Scenes/Puzzle Mode/Magazzino Livelli/Level68 Good Luck.unity
+  - Assets/Scenes/Puzzle Mode/Magazzino Livelli/Level69 glass.unity
+  - Assets/Scenes/Puzzle Mode/Magazzino Livelli/Level70 S.unity
+  - Assets/Scenes/Puzzle Mode/Magazzino Livelli/Level71.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  - Assets/Scenes/World0/Level49 Sit Down.unity
+  scenesDescription:
+  - It Goes Around
+  - EASY!
+  - Question Mark
+  - Two it's better than one
+  - Right Angle
+  - Sit Down
+  - Crazy Ways
+  - Sound
+  - You cannot pass!
+  - Right to pass both sides
+  - Flowers
+  - Target
+  - Arrow
+  - Window
+  - The Worm
+  - Jumping in the Clouds
+  - The Tree
+  - Fusing
+  - Bat
+  - Red Green Blue Yellow
+  - Turtle
+  - Forklift
+  - Gun
+  - Shuttle
+  - Simple?
+  - Pyramid
+  - The Box
+  - Teleport Balls
+  - Car Engine
+  - Stereo
+  - The Spider
+  - 1,2,3
+  - Wandering in the night
+  - Red Head
+  - Home Sweet Home
+  - Infinity
+  - Cheese Cake
+  - Are you strong?
+  - The Castle
+  - Call the Plumber!
+  - Babel Tower
+  - Drone R5
+  - Balanced
+  - Sonar
+  - Molecular
+  - Dollars
+  - Candy Spiral
+  - Twins
+  - Roman Road
+  - Different rteflection
+  - Happy
+  - Aries
+  - Tangle
+  - Intricate
+  - Jerry
+  - PixelAliens
+  - Silver
+  - Eagle
+  - One Way
+  - Good Luck
+  - Labyrint Gamma
+  - Labyrint gamma
+  - PixelAliens
+  - Venom Road
+  - Happy
+  - Aries
+  - Tangle
+  - Different rteflection
+  - Good Luck
+  - Glassex
+  - Intricate
+  - Food
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
+  - Sit Down
