@@ -1,2 +1,0 @@
-C:\Dropbox\VBNET\Unity Projects\Test Spawn\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
-C:\Dropbox\VBNET\Unity Projects\Test Spawn\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
